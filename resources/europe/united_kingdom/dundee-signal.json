@@ -1,0 +1,16 @@
+{
+  "id": "dundee-signal",
+  "type": "signal",
+  "locationSet": {"include": [[56.46059, -2.97019]]},
+  "languageCodes": ["en"],
+  "strings": {
+    "community": "OSM Dundee",
+    "communityID": "osmdundee",
+    "name": "OSM Dundee Signal"
+    "description": "Join and chat with other OpenStreetMappers in/near Dundee",
+    "url": "https://signal.group/#CjQKIGiLMjsqXydrvfAT30Ir-qLeOscsE7Kl9GtGk5sZnVc6EhDltvDBYSnn59iy7Lc4KBdz"
+  }
+  "contacts": [
+    {"name": "Gregory Marler", "email": "osm@livingwithdragons.com"}
+  ],
+}
